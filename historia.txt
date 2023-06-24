@@ -1,11 +1,7 @@
 Esta es una prueba manejo de Git
 
-Platzi curso de Curso Profesional de Git y GitHub
+Platzi Curso Profesional de Git y GitHub
 
-junio 21 de 2023
+junio 23 de 2023
 
-cambio a version 2
-
-Prueba de 2 cambios
-Cmabio 1
-CAmbio 2
+TRabajando en equipos
