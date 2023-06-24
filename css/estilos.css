@@ -33,3 +33,14 @@ body {
 #container hl {
     font-size: 20px;
 }
+
+#post {
+    padding: 1em;
+}
+
+#footer {
+    background: rgb(114, 91, 91);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
