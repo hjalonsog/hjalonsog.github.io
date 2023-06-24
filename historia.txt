@@ -5,3 +5,5 @@ Platzi Curso Profesional de Git y GitHub
 junio 23 de 2023
 
 Trabajando en equipos
+
+Ahora Nando Code colabora con este proyecto que es publico
