@@ -4,4 +4,4 @@ Platzi Curso Profesional de Git y GitHub
 
 junio 23 de 2023
 
-TRabajando en equipos
+Trabajando en equipos
